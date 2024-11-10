@@ -1,6 +1,6 @@
 # HW1 : 2D dataset 分布在feature plane上非圓形
 
-## [https://kunhw1.streamlit.app/](https://kunhw3-3.streamlit.app/)
+## [https://kunhw3-3.streamlit.app/](https://kunhw3-3.streamlit.app/)
 
 ![jwzw8-do6jc](https://github.com/user-attachments/assets/df7eceaa-d8f2-4b3c-894b-288416392dd4)
 
