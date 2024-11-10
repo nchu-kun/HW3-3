@@ -2,7 +2,8 @@
 
 ## [https://kunhw1.streamlit.app/](https://kunhw3-3.streamlit.app/)
 
-![e5b29c28-5024-45ff-bddd-c4777edfea15](https://github.com/user-attachments/assets/f5e98cef-a4ed-4b7a-a2c2-b6d9a41dc6bd)
+![jwzw8-do6jc](https://github.com/user-attachments/assets/df7eceaa-d8f2-4b3c-894b-288416392dd4)
+
 
 ## Business Understanding：
 問題目標：我們的目標是生成隨機數據點，並通過距離閾值將它們分為兩類 (0 和 1)，使用支持向量機 (SVM) 分類器來找到最佳的超平面，將這兩類區分開來。最終，我們希望能夠通過可視化讓用戶直觀地看到數據的分佈和模型的分類結果。
