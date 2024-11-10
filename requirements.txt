@@ -1,4 +1,4 @@
-numpy
-pandas
-streamlit
-scikit-learn
+streamlit==1.16.0
+numpy==1.21.4
+matplotlib==3.4.3
+scikit-learn==0.24.2
